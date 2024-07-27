@@ -1,8 +1,10 @@
 **Siamese Neural Network for Face Recognition
 Overview**
+
 This project implements a Siamese Neural Network using ResNet-34 as the base network to perform face recognition. The model was trained on the Labeled Faces in the Wild (LFW) dataset, formatted into image pairs with labels indicating whether the pairs are of the same person or not. The preprocessing involved face extraction and noise reduction, leading to approximately 90% accuracy on validation and test sets after 20 epochs.
 
 **Dataset**
+
 The LFW dataset was used for training, validation, and testing. The dataset was preprocessed to:
 
 Format images into pairs.
@@ -13,6 +15,7 @@ The architecture used is a Siamese Neural Network with ResNet-34 as the base net
 
 **Setup
 Prerequisites**
+
 Python 3.x
 TensorFlow 2.x
 NumPy

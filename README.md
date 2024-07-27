@@ -70,9 +70,7 @@ README.md: Project documentation.
 Results
 The model achieved approximately 90% accuracy on both the validation and test sets after 20 epochs of training.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
 LFW Dataset
-TensorFlow
+
